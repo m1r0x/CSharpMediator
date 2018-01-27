@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClientA.cs" />
+    <Compile Include="ClientAbstract.cs" />
+    <Compile Include="DevTeamA.cs" />
+    <Compile Include="DevTeamAbstract.cs" />
+    <Compile Include="Mediator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
